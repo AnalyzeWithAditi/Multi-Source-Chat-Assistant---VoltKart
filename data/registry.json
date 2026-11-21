@@ -1,0 +1,180 @@
+[
+  {
+    "name": "order_items.csv",
+    "file_type": "csv",
+    "kind": "table",
+    "doc_date": "",
+    "doc_family": "order items",
+    "tables": [
+      "order_items"
+    ],
+    "chunks": 1330,
+    "rows": {
+      "order_items": 1329
+    },
+    "uploaded_at": "2026-11-21T16:21:50"
+  },
+  {
+    "name": "products.csv",
+    "file_type": "csv",
+    "kind": "table",
+    "doc_date": "",
+    "doc_family": "products",
+    "tables": [
+      "products"
+    ],
+    "chunks": 23,
+    "rows": {
+      "products": 22
+    },
+    "uploaded_at": "2026-11-21T16:21:51"
+  },
+  {
+    "name": "orders.csv",
+    "file_type": "csv",
+    "kind": "table",
+    "doc_date": "",
+    "doc_family": "orders",
+    "tables": [
+      "orders"
+    ],
+    "chunks": 901,
+    "rows": {
+      "orders": 900
+    },
+    "uploaded_at": "2026-11-21T16:40:26"
+  },
+  {
+    "name": "customers.csv",
+    "file_type": "csv",
+    "kind": "table",
+    "doc_date": "",
+    "doc_family": "customers",
+    "tables": [
+      "customers"
+    ],
+    "chunks": 141,
+    "rows": {
+      "customers": 140
+    },
+    "uploaded_at": "2026-11-21T16:42:28"
+  },
+  {
+    "name": "returns.csv",
+    "file_type": "csv",
+    "kind": "table",
+    "doc_date": "",
+    "doc_family": "returns",
+    "tables": [
+      "returns"
+    ],
+    "chunks": 65,
+    "rows": {
+      "returns": 64
+    },
+    "uploaded_at": "2026-11-21T16:44:00"
+  },
+  {
+    "name": "stores.csv",
+    "file_type": "csv",
+    "kind": "table",
+    "doc_date": "",
+    "doc_family": "stores",
+    "tables": [
+      "stores"
+    ],
+    "chunks": 9,
+    "rows": {
+      "stores": 8
+    },
+    "uploaded_at": "2026-11-21T16:44:01"
+  },
+  {
+    "name": "JD_ML_Engineer_2025-03-10.docx",
+    "file_type": "docx",
+    "kind": "doc",
+    "doc_date": "2025-03-10",
+    "doc_family": "jd ml engineer",
+    "tables": [],
+    "chunks": 5,
+    "rows": {},
+    "uploaded_at": "2026-11-21T16:44:22"
+  },
+  {
+    "name": "JD_ML_Engineer_2025-10-20.pdf",
+    "file_type": "pdf",
+    "kind": "doc",
+    "doc_date": "2025-10-20",
+    "doc_family": "jd ml engineer",
+    "tables": [],
+    "chunks": 5,
+    "rows": {},
+    "uploaded_at": "2026-11-21T16:44:22"
+  },
+  {
+    "name": "VoltKart_Return_Policy_2024-04-01.pdf",
+    "file_type": "pdf",
+    "kind": "doc",
+    "doc_date": "2024-04-01",
+    "doc_family": "voltkart return policy",
+    "tables": [],
+    "chunks": 8,
+    "rows": {},
+    "uploaded_at": "2026-11-21T16:44:23"
+  },
+  {
+    "name": "VoltKart_Return_Policy_2025-01-15.docx",
+    "file_type": "docx",
+    "kind": "doc",
+    "doc_date": "2025-01-15",
+    "doc_family": "voltkart return policy",
+    "tables": [],
+    "chunks": 6,
+    "rows": {},
+    "uploaded_at": "2026-11-21T16:44:23"
+  },
+  {
+    "name": "VoltKart_Return_Policy_2025-09-01.txt",
+    "file_type": "txt",
+    "kind": "doc",
+    "doc_date": "2025-09-01",
+    "doc_family": "voltkart return policy",
+    "tables": [],
+    "chunks": 6,
+    "rows": {},
+    "uploaded_at": "2026-11-21T16:44:24"
+  },
+  {
+    "name": "VoltKart_Store_Operations_Notice_2025-11-05.pdf",
+    "file_type": "pdf",
+    "kind": "doc",
+    "doc_date": "2025-11-05",
+    "doc_family": "voltkart store operations notice",
+    "tables": [],
+    "chunks": 4,
+    "rows": {},
+    "uploaded_at": "2026-11-21T16:44:24"
+  },
+  {
+    "name": "VoltKart_Warranty_Terms_2024-07-01.txt",
+    "file_type": "txt",
+    "kind": "doc",
+    "doc_date": "2024-07-01",
+    "doc_family": "voltkart warranty terms",
+    "tables": [],
+    "chunks": 6,
+    "rows": {},
+    "uploaded_at": "2026-11-21T16:44:25"
+  },
+  {
+    "name": "VoltKart_Warranty_Terms_2026-02-01.docx",
+    "file_type": "docx",
+    "kind": "doc",
+    "doc_date": "2026-02-01",
+    "doc_family": "voltkart warranty terms",
+    "tables": [],
+    "chunks": 5,
+    "rows": {},
+    "uploaded_at": "2026-11-21T16:44:25"
+  }
+]
