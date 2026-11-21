@@ -1,0 +1,13 @@
+[theme]
+base = "dark"
+primaryColor = "#F4A7BE"              # soft rose pink (buttons, toggle, logo)
+backgroundColor = "#0B2E33"           # dark teal page background
+secondaryBackgroundColor = "#123F46"  # cards / inputs in the main area
+textColor = "#E6F4F6"
+font = "sans serif"                   # Source Sans Pro is applied through CSS in app.py
+
+# Colours below are applied in app.py CSS (the sidebar and dark/light switch live there):
+#   #93B1B5  sidebar background
+#   #4F7C82  highlight (web-search panel in dark mode, borders)
+#   #B8E3E9  highlight (active chat, web-search panel in light mode)
+#   #93C572  "web search is on" status and chat-input outline
